@@ -1,0 +1,36 @@
+C:\Users\2285617\AppData\Local\Temporary Projects\diyejuice\bin\Debug\diyejuice.exe
+C:\Users\2285617\AppData\Local\Temporary Projects\diyejuice\bin\Debug\diyejuice.pdb
+C:\Users\2285617\AppData\Local\Temporary Projects\diyejuice\bin\Debug\diyejuice.xml
+C:\Users\2285617\AppData\Local\Temporary Projects\diyejuice\obj\x86\Debug\diyejuice.Form1.resources
+C:\Users\2285617\AppData\Local\Temporary Projects\diyejuice\obj\x86\Debug\diyejuice.Resources.resources
+C:\Users\2285617\AppData\Local\Temporary Projects\diyejuice\obj\x86\Debug\diyejuice.vbproj.GenerateResource.Cache
+C:\Users\2285617\AppData\Local\Temporary Projects\diyejuice\obj\x86\Debug\diyejuice.exe
+C:\Users\2285617\AppData\Local\Temporary Projects\diyejuice\obj\x86\Debug\diyejuice.xml
+C:\Users\2285617\AppData\Local\Temporary Projects\diyejuice\obj\x86\Debug\diyejuice.pdb
+E:\Prog\ProgrammeVB\diyejuice\obj\x86\Debug\diyejuice.exe
+E:\Prog\ProgrammeVB\diyejuice\obj\x86\Debug\diyejuice.xml
+E:\Prog\ProgrammeVB\diyejuice\obj\x86\Debug\diyejuice.pdb
+E:\Prog\ProgrammeVB\diyejuice\bin\Debug\diyejuice.exe
+E:\Prog\ProgrammeVB\diyejuice\bin\Debug\diyejuice.pdb
+E:\Prog\ProgrammeVB\diyejuice\bin\Debug\diyejuice.xml
+E:\Prog\ProgrammeVB\diyejuice\obj\x86\Debug\diyejuice.frmMain.resources
+E:\Prog\ProgrammeVB\diyejuice\obj\x86\Debug\diyejuice.Resources.resources
+E:\Prog\ProgrammeVB\diyejuice\obj\x86\Debug\diyejuice.vbproj.GenerateResource.Cache
+E:\Prog\ProgrammeVB\Projet-Wil-diyejuice\obj\x86\Debug\diyejuice.exe
+E:\Prog\ProgrammeVB\Projet-Wil-diyejuice\obj\x86\Debug\diyejuice.xml
+E:\Prog\ProgrammeVB\Projet-Wil-diyejuice\obj\x86\Debug\diyejuice.pdb
+E:\Prog\ProgrammeVB\Projet-Wil-diyejuice\bin\Debug\diyejuice.exe
+E:\Prog\ProgrammeVB\Projet-Wil-diyejuice\bin\Debug\diyejuice.pdb
+E:\Prog\ProgrammeVB\Projet-Wil-diyejuice\bin\Debug\diyejuice.xml
+E:\Prog\ProgrammeVB\Projet-Wil-diyejuice\obj\x86\Debug\diyejuice.frmMain.resources
+E:\Prog\ProgrammeVB\Projet-Wil-diyejuice\obj\x86\Debug\diyejuice.Resources.resources
+E:\Prog\ProgrammeVB\Projet-Wil-diyejuice\obj\x86\Debug\diyejuice.vbproj.GenerateResource.Cache
+E:\Prog\ProgrammeVB\Projet-Will-diyejuice\obj\x86\Debug\diyejuice.exe
+E:\Prog\ProgrammeVB\Projet-Will-diyejuice\obj\x86\Debug\diyejuice.xml
+E:\Prog\ProgrammeVB\Projet-Will-diyejuice\obj\x86\Debug\diyejuice.pdb
+E:\Prog\ProgrammeVB\Projet-Will-diyejuice\bin\Debug\diyejuice.exe
+E:\Prog\ProgrammeVB\Projet-Will-diyejuice\bin\Debug\diyejuice.pdb
+E:\Prog\ProgrammeVB\Projet-Will-diyejuice\bin\Debug\diyejuice.xml
+E:\Prog\ProgrammeVB\Projet-Will-diyejuice\obj\x86\Debug\diyejuice.frmMain.resources
+E:\Prog\ProgrammeVB\Projet-Will-diyejuice\obj\x86\Debug\diyejuice.Resources.resources
+E:\Prog\ProgrammeVB\Projet-Will-diyejuice\obj\x86\Debug\diyejuice.vbproj.GenerateResource.Cache
